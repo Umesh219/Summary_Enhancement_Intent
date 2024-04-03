@@ -1,0 +1,46 @@
+conversation,intent
+"My order is delayed, can you help me with it? I urgently need it.",order_issue
+The product I received is not what I expected. I want a refund or replacement.,order_issue
+I accidentally ordered the wrong item. Can I cancel the order?,order_issue
+My package is lost in transit. What should I do now?,order_issue
+There's an error in the billing amount of my order. Can you rectify it?,order_issue
+I received a damaged product. How can I return or exchange it?,order_issue
+I haven't received my order yet. Can you provide an update on its status?,order_issue
+I need to change the shipping address for my order. Is it possible?,order_issue
+The order I placed is missing some items. Can you help me with it?,order_issue
+"The delivery date for my order has passed, but I haven't received it yet. What's happening?",order_issue
+I received the wrong size of the product in my order. Can I get a replacement?,order_issue
+I need to update my contact information for delivery purposes. How can I do that?,order_issue
+The product I received is defective. What is the process for returning it?,order_issue
+"My order has been marked as delivered, but I haven't received it. What should I do?",order_issue
+I want to track the delivery status of my order. How can I do that?,order_issue
+Hello! How's your day going? I hope it's going well.,small_talk
+Good morning! I hope you have a great day ahead.,small_talk
+Hi there! Just wanted to check in and say hi.,small_talk
+Hey! How's everything going? Anything exciting happening?,small_talk
+Hi! How are you doing today? Anything interesting going on?,small_talk
+Hello! How's the weather at your place? It's sunny here.,small_talk
+Hey there! Just wanted to drop by and say hello.,small_talk
+Good afternoon! Hope you're having a wonderful day.,small_talk
+Hi! How's life treating you? Hope everything's going well.,small_talk
+Hello! What's up? Anything exciting happening in your life?,small_talk
+Hey! How's your week going so far? Anything interesting going on?,small_talk
+Hi there! Hope you're having a fantastic day!,small_talk
+Hey! How's your day been so far? Anything new and exciting?,small_talk
+Hello! How's everything going? Hope you're doing well.,small_talk
+Hi! How's your day shaping up? Hope it's going smoothly.,small_talk
+I need to change the delivery address for my order. Can you assist me with that?,delivery_change
+The delivery date for my order doesn't work for me. Can I reschedule it?,delivery_change
+I want to switch to express delivery for my order. How can I do that?,delivery_change
+The delivery time slot I selected is no longer suitable. Can I change it?,delivery_change
+I need to update the delivery instructions for my order. How do I do that?,delivery_change
+I won't be available to receive my order on the scheduled delivery date. Can it be postponed?,delivery_change
+I want to change the delivery method from standard to expedited. Is that possible?,delivery_change
+The delivery address provided is incorrect. Can I correct it before the order ships?,delivery_change
+I'd like to change the delivery location to my workplace. How do I do that?,delivery_change
+The delivery instructions I provided earlier need to be revised. How can I update them?,delivery_change
+I need to specify a safe place for delivery in case I'm not home. How can I do that?,delivery_change
+The delivery time frame I selected is too broad. Can I narrow it down?,delivery_change
+I need to change the delivery date for my order due to unforeseen circumstances. How do I proceed?,delivery_change
+The delivery address needs to be changed to a different city. Can I do that online?,delivery_change
+I'd like to add special delivery instructions for my order. How can I do that?,delivery_change
