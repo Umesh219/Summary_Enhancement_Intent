@@ -1,0 +1,125 @@
+conversation,intent
+"I've made an order recently, but I've reconsidered and wish to cancel it. Can I still do that?",order cancel
+"After placing my order, I've decided I no longer need the items. Can I cancel my order now?",order cancel
+"I just submitted an order, but I've had a change of heart. Is cancellation still an option?",order cancel
+I placed an order a short while ago but would like to revoke it. Is cancellation feasible at this stage?,order cancel
+"I've just completed an order, but I've decided against it. Can I still cancel?",order cancel
+"I made a purchase recently, but I've changed my mind. Can I still cancel the order?",order cancel
+"Just after ordering, I realized I don't want the product anymore. Can I cancel the order?",order cancel
+"I've just placed an order, but on second thought, I want to cancel it. Is that permitted?",order cancel
+"Having just placed an order, I've now decided I don't want it. Can I cancel?",order cancel
+I ordered something recently but now wish to cancel. Is that still within the realm of possibility?,order cancel
+"Right after placing my order, I've concluded that I no longer need it. Can I cancel it now?",order cancel
+"I've just executed an order, but I've had a change in plans. Can I cancel it?",order cancel
+"Immediately after placing my order, I've decided it's not what I want. Can I cancel?",order cancel
+"I've made an order just now, but I've reconsidered. Is cancellation an option?",order cancel
+I've recently placed an order but would now like to retract it. Is that doable?,order cancel
+"Just placed an order, but I've realized it's not what I need. Can I cancel it?",order cancel
+"I just confirmed an order, but I want to cancel it now. Is that feasible?",order cancel
+"I've just finalized an order, but I've decided to cancel. Can I do that?",order cancel
+"Right after finalizing my order, I've determined I don't want it. Can I cancel?",order cancel
+"I've just made an order, but I've now changed my mind. Is cancellation possible?",order cancel
+"After completing my order, I've had second thoughts. Can I cancel it?",order cancel
+I've placed an order recently but now want to cancel it. Is there still time?,order cancel
+I've just made a purchase but would like to cancel it now. Can I do that?,order cancel
+"Immediately after making an order, I've decided it's not right for me. Can I cancel?",order cancel
+"I've recently ordered something, but I've changed my mind. Can I cancel the order?",order cancel
+"Just ordered something, but I've reconsidered and want to cancel. Is that allowed?",order cancel
+I placed an order not long ago but want to cancel now. Is it still possible to do so?,order cancel
+"After ordering, I've decided the product isn't for me. Can I still cancel the order?",order cancel
+"I've just initiated an order, but I want to back out. Can I cancel it?",order cancel
+"Right after making an order, I've had a change of opinion. Is it too late to cancel?",order cancel
+Hello! How's your day going? I hope it's going well.,small talk
+Good morning! I hope you have a great day ahead.,small talk
+Hi there! Just wanted to check in and say hi.,small talk
+Hey! How's everything going? Anything exciting happening?,small talk
+Hi! How are you doing today? Anything interesting going on?,small talk
+Hello! How's the weather at your place? It's sunny here.,small talk
+Hey there! Just wanted to drop by and say hello.,small talk
+Good afternoon! Hope you're having a wonderful day.,small talk
+Hi! How's life treating you? Hope everything's going well.,small talk
+Hello! What's up? Anything exciting happening in your life?,small talk
+Hey! How's your week going so far? Anything interesting going on?,small talk
+Hi there! Hope you're having a fantastic day!,small talk
+Hey! How's your day been so far? Anything new and exciting?,small talk
+Hello! How's everything going? Hope you're doing well.,small talk
+Hi! How's your day shaping up? Hope it's going smoothly.,small talk
+How's your day going?,small talk
+What are you working on today?,small talk
+"The weather is beautiful today, isn't it?",small talk
+Any exciting plans for the weekend?,small talk
+Did you catch that game last night? It was a thriller!,small talk
+I just saw the funniest video online. Have you seen it?,small talk
+What are you passionate about?,small talk
+What's your favorite thing about working here?,small talk
+I'm learning a new language. How about you?,small talk
+Coffee or tea? I can't decide!,small talk
+What do you think about the latest news?,small talk
+Have you seen any good movies lately?,small talk
+I'm craving some [food]. What about you?,small talk
+What are your hobbies outside of work?,small talk
+Have you been to any interesting places recently?,small talk
+What's your favorite book/music genre?,small talk
+I'm learning how to cook [dish]. Any tips?,small talk
+Do you celebrate any upcoming holidays?,small talk
+That outfit looks great on you! Where did you get it?,small talk
+I just read an interesting article about [topic]. Have you heard of it?,small talk
+This music is catchy! What's playing?,small talk
+That presentation was really informative. Thanks!,small talk
+Looking forward to the weekend! Any plans?,small talk
+Hope you have a great day!,small talk
+It was nice chatting with you!,small talk
+See you around!,small talk
+Have a productive week!,small talk
+Thanks for your help!,small talk
+Let me know if you need anything!,small talk
+That was a close call! Glad things worked out.,small talk
+"Just checking in, how can I help you today?",small talk
+Is there anything else I can assist you with?,small talk
+Feel free to ask me any questions you might have.,small talk
+No problem at all! Happy to help.,small talk
+Let me know if you have any further questions.,small talk
+I need to change the delivery address for my order. Can you assist me with that?,delivery address change
+The delivery date for my order doesn't work for me. Can I reschedule it?,delivery address change
+I want to switch to express delivery for my order. How can I do that?,delivery address change
+The delivery time slot I selected is no longer suitable. Can I change it?,delivery address change
+I need to update the delivery instructions for my order. How do I do that?,delivery address change
+I won't be available to receive my order on the scheduled delivery date. Can it be postponed?,delivery address change
+I want to change the delivery method from standard to expedited. Is that possible?,delivery address change
+The delivery address provided is incorrect. Can I correct it before the order ships?,delivery address change
+I'd like to change the delivery location to my workplace. How do I do that?,delivery address change
+The delivery instructions I provided earlier need to be revised. How can I update them?,delivery address change
+I need to specify a safe place for delivery in case I'm not home. How can I do that?,delivery address change
+The delivery time frame I selected is too broad. Can I narrow it down?,delivery address change
+I need to change the delivery date for my order due to unforeseen circumstances. How do I proceed?,delivery address change
+The delivery address needs to be changed to a different city. Can I do that online?,delivery address change
+I'd like to add special delivery instructions for my order. How can I do that?,delivery address change
+I need to change the delivery address for my order. Is that possible?,delivery address change
+The delivery address on my order is incorrect. Can I update it?,delivery address change
+I'm moving before my order arrives. Can I change the delivery address?,delivery address change
+I accidentally entered the wrong delivery address. Can it be corrected?,delivery address change
+Is it too late to change the delivery address on my recent order?,delivery address change
+I'd like to update the delivery address for an order I placed as a guest.,delivery address change
+Can I change the delivery address to a pick-up location at a store?,delivery address change
+I'm unsure of the exact process for changing the delivery address. Can you help?,delivery address change
+"If I change the delivery address, will it affect the estimated arrival time?",delivery address change
+I just placed an order and need to update the delivery address. How can I do that?,delivery address change
+I'm sending this order as a gift and need to change the delivery address.,delivery address change
+I'm traveling and would like to change the delivery address for my order.,delivery address change
+Can I change the delivery address to my work address instead?,delivery address change
+I noticed a typo in the delivery zip code for my order. Can it be fixed?,delivery address change
+How can I confirm if it's possible to change the delivery address on my order?,delivery address change
+"I placed an order with multiple items, but only need to change the address for one. Is that possible?",delivery address change
+I'm worried the package might be delivered to the old address if I change it now. What should I do?,delivery address change
+Can I update my delivery address through the app or do I need to contact you directly?,delivery address change
+What information do I need to provide in order to change the delivery address?,delivery address change
+I'm concerned there might be a deadline for changing the delivery address. Can you clarify?,delivery address change
+"After I change the delivery address, will I receive a confirmation email?",delivery address change
+"If I change the delivery address to a different city, will the shipping cost be affected?",delivery address change
+I'm unsure if the new address is within the delivery zone. Can you check?,delivery address change
+"I changed the delivery address, but it still shows the old one in my order details. Is that okay?",delivery address change
+I no longer need to change the delivery address after all. Can you disregard my previous request?,delivery address change
+I'm having trouble changing the delivery address on my account. Can you help me?,delivery address change
+I don't have access to the email address associated with the order. Can I still change the delivery address?,delivery address change
+Is there a way to split my order and send it to different delivery addresses?,delivery address change
+I'd like to add delivery instructions for the new address. Is that possible?,delivery address change
